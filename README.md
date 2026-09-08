@@ -39,8 +39,7 @@ El modelo seleccionado por mejor desempeño y capacidad de capturar relaciones n
 ---
 
 ## 4. Enlace al Video de Presentación
-* **Video Explicativo (≤ 8 min):** `[INSERTAR_AQUÍ_ENLACE_YOUTUBE_O_DRIVE]`  
-*(Cobertura: Dataset y Justificación 1 min, EDA 2 min, PCA + K-Means 1 min, Modelos y Tabla 2.5 min, Conclusiones 1.5 min)*
+* **Video Explicativo:** https://drive.google.com/file/d/1mwtS4oCY4Qry_UZAVwdLKU0ufifpd9sU/view?usp=sharing  
 
 ---
 
